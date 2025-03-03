@@ -7,4 +7,8 @@ As a continuation from the design round, we'll be building a simple stateless AP
 - add appropriate HTTP responses with errors where applicable:
     - valid request is processed successfully
     - invalid request (user/server, both)
-    - 
+
+#### Stretch goals
+
+- Write a unit test (can use libraries)
+- Integrate debug logging (can use libraries)
